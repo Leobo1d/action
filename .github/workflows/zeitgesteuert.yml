@@ -2,7 +2,7 @@ name: CI
 
 on:
   schedule: 
-    - cron: "18 12 * * *"
+    - cron: "38 12 * * *"
 
 
 jobs:
